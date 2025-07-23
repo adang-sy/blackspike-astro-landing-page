@@ -10,6 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "sharp": "^0.32.0",
     "@tailwindcss/vite": "^4.1.11",
     "astro": "^5.11.0",
     "swiper": "^11.2.10",
